@@ -122,7 +122,7 @@
     "babel-loader": "^8.1.0",
     "codelyzer": "^6.0.1",
     "dayjs": "^1.9.1",
-    "electron": "^11.4.6",
+    "electron": "^22.3.21",
     "electron-builder": "^22.11.5",
     "jasmine-core": "~3.7.1",
     "jasmine-spec-reporter": "~6.0.0",
